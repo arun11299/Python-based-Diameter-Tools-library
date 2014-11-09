@@ -1,0 +1,6 @@
+[submodule "firebolt"]
+	path = firebolt
+	url = ./firebolt
+[submodule "Python-based-Diameter-Tools-library"]
+	path = Python-based-Diameter-Tools-library
+	url = https://github.com/arun11299/Python-based-Diameter-Tools-library
